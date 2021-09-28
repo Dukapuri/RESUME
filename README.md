@@ -52,5 +52,5 @@ github address: [MywebSite][githubmysite]
 
 github address: [MyGit][github]
 
-[githubmysite]:/Dukapuri/git-test/
-[github]:http://github.com/
+[githubmysite]:http://github.com/Dukapuri/git-test/
+[github]:http://github.com/Dukapuri

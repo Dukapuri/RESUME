@@ -48,8 +48,9 @@
 |대학영어|토익에서 필요한 공부|3|
 
 ## 내가 했던 웹사이트들
-github address: [MywebSite][github]
+github address: [MywebSite][githubmysite]
 
 github address: [MyGit][github]
 
-[github]:http://github.com/git-test
+[githubmysite]:/git-test/
+[github]:http://github.com/

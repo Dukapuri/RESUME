@@ -12,9 +12,15 @@
 ## 관심분야
 * 컴퓨터공학
 * 컴공 관련 수학들
-* **선형대수학**
+* `**선형대수학**`
 
-
+## 내가 필요한 지식
+* 미적분 
+* 선형대수학 
+* 기초통계학 
+* 집합 위상 
+* 베이지안 이론(Bayesian theory)
+* `통계학적 지식`
 ## 프로그래밍 언어 스킬
 * Python
 * Html
@@ -28,10 +34,9 @@
 * Docker
 
 ## 공부중인 기술
-* React(1%)
 * Linear algebra
 * Shell script
-* Open source
+* Open source SW
 
 ## 앞으로 하고싶은 공부
 * 텐서플로우
